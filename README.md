@@ -1,4 +1,4 @@
-# Basic-Calci
+# calculator
 **Basic Calculator using HTML, CSS, and JavaScript**
 This project is a basic calculator implemented using HTML for the structure, CSS for styling, and JavaScript for the functionality. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
